@@ -14,7 +14,7 @@ In this section of the challenge, I was tasked with creating a Python script to 
     * The greatest decrease in profits (date and amount) over the entire period 
 
 ### PyPoll
-In this section of the challenge, I was tasked with assisting a small, rural town modernize its vote-counting process. Using the dataset provided called [election_data.csv], I created a Python script to analyze the votes and calculate each of the following values: 
+In this section of the challenge, I was tasked with assisting a small, rural town modernize its vote-counting process. Using the dataset provided called [election_data.csv](https://github.com/maddieemihle/python-challenge/blob/ebef338cd2dbb5df2f06b204708d00e6f835ee6c/PyPoll/Resources/election_data.csv), I created a Python script to analyze the votes and calculate each of the following values: 
     * The total number of votes cast
     * A complete list of candidates who recieved votes
     * The percentage of votes each candidate won
