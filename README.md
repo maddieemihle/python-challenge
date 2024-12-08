@@ -23,3 +23,5 @@ In this section of the challenge, I was tasked with assisting a small, rural tow
     * The total number of votes each candidate won 
     * The winner of the election based on popular vote 
 
+### Software used
+The software used to analyze and write the code is Python via Visual Studio Code.
